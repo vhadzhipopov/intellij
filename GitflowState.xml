@@ -2,8 +2,10 @@
   <component name="GitflowState">
     <option name="taskBranches">
       <map>
-        <entry key="TTP-471" value="feature/TTP-471" />
-        <entry key="TTP-486" value="feature/TTP-486" />
+        <entry key="TTP-390" value="feature/feature/TTP-390" />
+        <entry key="TTP-424" value="feature/feature/TTP-424" />
+        <entry key="TTP-458" value="feature/TTP-458" />
+        <entry key="TTP-485" value="feature/TTP-485" />
       </map>
     </option>
   </component>

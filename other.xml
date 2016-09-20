@@ -1,7 +1,4 @@
 <application>
-  <component name="AngularJSConfig">
-    <option name="INSERT_WHITESPACE" value="true" />
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -50,24 +47,37 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/bin/node">
-      <version-cache version="4.4.7" last-modified="1467161857000" />
+      <version-cache version="6.5.0" last-modified="1472578508000" />
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/bin/node" version="4.2.2" last-modified="1447195173000" />
+    <node-interpreter path="/usr/bin/node" version="6.3.1" last-modified="1469478799000" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="entitySuffix" value="" />
+    <option name="generateAnnotations" value="false" />
+    <option name="ENTITY_SUFFIX" value="" />
+    <option name="GENERATE_ANNOTATIONS" value="false" />
   </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="https://eunlimited.atlassian.net">
       <option name="apiType" value="REST_2_0" />
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <password>dfc0dfd6dfe1dfdedfcbdfc1df9edfc0dfc3dfd8dfcb</password>
-      <option name="jiraVersion" value="1000.319.1" />
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="1000.217.2" />
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
-      <option name="searchQuery" value="assignee = currentUser() and status in (&quot;TO DO&quot;, &quot;In Progress&quot;) order by updated" />
+      <option name="searchQuery" value="status in (&quot;TO DO&quot;, &quot;In Progress&quot; ) ORDER BY created DESC" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="true" />
       <option name="useProxy" value="false" />
@@ -75,8 +85,11 @@
     </JIRA>
   </component>
   <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="RENAME_TESTS" value="false" />
   </component>
 </application>
