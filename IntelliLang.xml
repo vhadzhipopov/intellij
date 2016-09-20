@@ -9,5 +9,9 @@
       <display-name>h4/@translate</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("translate")).withParent(xmlTag().withLocalName(string().equalTo("h4")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>label/@translate</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("translate")).withParent(xmlTag().withLocalName(string().equalTo("label")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
