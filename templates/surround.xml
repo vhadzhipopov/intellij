@@ -1,0 +1,12 @@
+<templateSet group="surround">
+  <template name="P" value="($SELECTION$)" description="Surround with ()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,10 @@
+<application>
+  <component name="GitflowState">
+    <option name="taskBranches">
+      <map>
+        <entry key="TTP-471" value="feature/TTP-471" />
+        <entry key="TTP-486" value="feature/TTP-486" />
+      </map>
+    </option>
+  </component>
+</application>
