@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File 'JPA 'JPA''" />
     <option name="defaultScopeName" value="File 'JPA 'JPA''" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File 'JPA 'JPA''" />
   </component>
 </application>
