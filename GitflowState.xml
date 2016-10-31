@@ -3,6 +3,7 @@
     <option name="taskBranches">
       <map>
         <entry key="TTP-390" value="feature/feature/TTP-390" />
+        <entry key="TTP-404" value="feature/TTP-404" />
         <entry key="TTP-424" value="feature/feature/TTP-424" />
         <entry key="TTP-458" value="feature/TTP-458" />
         <entry key="TTP-485" value="feature/TTP-485" />
@@ -10,6 +11,9 @@
         <entry key="TTP-521" value="feature/TTP-521" />
         <entry key="TTP-523" value="feature/TTP-523" />
         <entry key="TTP-532" value="feature/TTP-532" />
+        <entry key="TTP-547" value="feature/TTP-547" />
+        <entry key="TTP-548" value="feature/TTP-548" />
+        <entry key="TTP-655" value="feature/TTP-655" />
       </map>
     </option>
   </component>
