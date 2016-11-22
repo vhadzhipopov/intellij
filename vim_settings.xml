@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Dokumente/ode-adams/src/main/java/Odu2ndOrder.java" timestamp="1450270009825">
@@ -14,9 +14,12 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/Dokumente/techtour/techtour-api/src/main/java/com/techtour/domain/Event.java" timestamp="1479815610862">
+      <file name="$USER_HOME$/Dokumente/techtour/techtour-api/src/main/java/com/techtour/domain/Event.java" timestamp="1479817163894">
         <mark key="'" line="63" column="25" />
         <mark key="[" line="102" column="28" />
+        <mark key="]" line="102" column="11" />
+        <mark key="^" line="102" column="11" />
+        <mark key="." line="102" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1479815650605">
         <mark key="[" line="0" column="0" />
