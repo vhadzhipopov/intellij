@@ -14,12 +14,8 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/Dokumente/techtour/techtour-api/src/main/java/com/techtour/domain/Event.java" timestamp="1479815359483">
+      <file name="$USER_HOME$/Dokumente/techtour/techtour-api/src/main/java/com/techtour/domain/Event.java" timestamp="1479815502037">
         <mark key="'" line="63" column="25" />
-        <mark key="[" line="70" column="3" />
-        <mark key="]" line="70" column="4" />
-        <mark key="^" line="70" column="4" />
-        <mark key="." line="70" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -63,6 +59,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
