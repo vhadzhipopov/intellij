@@ -1,4 +1,5 @@
 <code_scheme name="Default (3)">
+  <option name="RIGHT_MARGIN" value="220" />
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
   </codeStyleSettings>
