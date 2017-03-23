@@ -11,4 +11,8 @@
     <option name="SHOW_INLINE_DIALOG" value="false" />
   </component>
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
 </application>
