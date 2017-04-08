@@ -1,0 +1,10 @@
+<application>
+  <component name="PresentationAssistant">
+    <option name="alternativeKeymap">
+      <KeymapDescription>
+        <option name="displayText" value="GNOME" />
+        <option name="name" value="Default for GNOME" />
+      </KeymapDescription>
+    </option>
+  </component>
+</application>

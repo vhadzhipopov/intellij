@@ -14,8 +14,20 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
+      <file name="$USER_HOME$/Dokumente/techtour/techtour-api/src/main/java/com/techtour/domain/Event.java" timestamp="1479817163894">
+        <mark key="'" line="63" column="25" />
+        <mark key="[" line="102" column="28" />
+        <mark key="]" line="102" column="11" />
+        <mark key="^" line="102" column="11" />
+        <mark key="." line="102" column="11" />
+      </file>
+      <file name="/fragment.java" timestamp="1479815650605">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="63" column="25" filename="$USER_HOME$/Dokumente/techtour/techtour-api/src/main/java/com/techtour/domain/Event.java" />
+    </jumps>
     <registers>
       <register name="1" type="4">
         <text>database</text>
@@ -47,7 +59,28 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
+        <text>shift ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

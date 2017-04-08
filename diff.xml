@@ -29,6 +29,7 @@
     <option name="PLACES_MAP">
       <entry key="ChangesView">
         <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
@@ -39,14 +40,19 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
+    </option>
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="MERGE_AUTO_APPLY_NON_CONFLICTED_CHANGES" value="true" />
+      </SharedSettings>
     </option>
   </component>
 </application>

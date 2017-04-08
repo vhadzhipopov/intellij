@@ -4,6 +4,7 @@
       <mapping pattern="qq" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping pattern="projectFinancialsRequest" type="ThymeleafExpressions" />
     </extensionMap>
   </component>
 </application>

@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="antlib:org.apache.ivy.ant" location="/usr/share/ant/lib" />
+    <ignored-resource url="antlib:org.apache.ivy.ant" />
+    <ignored-resource url="antlib:org.springframework.boot.ant" />
+  </component>
+</application>
