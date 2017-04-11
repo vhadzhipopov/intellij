@@ -14,6 +14,10 @@
           <option name="url" value="git@dev-infrastructure.briz.fadata.bg:viktor.hadzhipopov/playground.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mgechev/scalable-architecture-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Dokumente" />
