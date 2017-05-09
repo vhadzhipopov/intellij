@@ -26,6 +26,10 @@
           <option name="url" value="http://dev-infrastructure.briz.fadata.bg:8888" />
           <option name="userName" value="vhadzhipopov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ngrx/example-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Dokumente" />
