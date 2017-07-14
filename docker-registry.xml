@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="viktor.hadzhipopov@privemanagers.com">
+      <option name="address" value="https://nexus.privemanagers.com" />
+      <option name="name" value="Prive Nexus" />
+      <option name="username" value="vhadzhipopov" />
+    </DockerRegistry>
+  </component>
+</application>
